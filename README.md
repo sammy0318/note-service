@@ -20,11 +20,11 @@ Take notes effortlessly with a smooth and modern interface! ✨
 
 ### 🖼️ Home Screen
 
-![Home Screen](./screenshots/SS1.png)
+![Home Screen](./public/SS1.png)
 
 ### 🖼️ Add Note Screen
 
-![Add Note Screen](./screenshots/SS2.png)
+![Add Note Screen](./public/SS2.png)
 
 ---
 
